@@ -1,6 +1,7 @@
+
+[video](https://youtube.com/shorts/elS0QMYUKI4)
+
 --Usaremos a IDE MaixPy
-
-
 --requisitos para rodar o codigo:
   i)IDE MaixPy
   
