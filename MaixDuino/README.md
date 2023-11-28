@@ -11,4 +11,8 @@
 
 --Depois de ter tudo isso:
   i)voce deve instalar o modelo com o Kflash_gui
+
+
+
+  ii)agora é so rodar face_detection.py na IDE e pronto
   <img src="13_3.jpg" width = '500px'>
