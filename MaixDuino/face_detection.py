@@ -9,7 +9,7 @@ sensor.set_pixformat(sensor.RGB565)   #Coloca a camera no formato default
 sensor.set_framesize(sensor.QVGA)     #resoluçao 320x240
 sensor.run(1)
 
-task = kpu.load(0x300000) ##task = kpu.load("/sd/face.kmodel")
+task = kpu.load(0x300000) ##task = kpu.load("/sd/face.kmodel")         #carrega o modelo
 anchor = (1.889, 2.5245, 2.9465, 3.94056, 3.99987, 5.3658, 5.155437, 6.92275, 6.718375, 9.01025) #Valores ja pre-definidos no treinamento do modelo
 a = kpu.init_yolo2(task, 0.5, 0.3, 5, anchor) # YOLO V2
 while True:
