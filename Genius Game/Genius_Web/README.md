@@ -3,5 +3,4 @@ Jogo feito usando Nodemcu e a biblioteca <FastLed.h>. A interface é simples, ap
 [video](https://youtube.com/shorts/tFGMKbkEPqY?feature=share)
 
 
-
-
+<img src="Interface.png" width = '500px'>
